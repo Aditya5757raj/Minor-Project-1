@@ -61,12 +61,3 @@ For any inquiries or issues, you can reach me on [Twitter](https://www.twitter.c
 This project is **free to use** and does not contain any specific license. Feel free to contribute or use it as you see fit.
 ```
 
-### Customization Notes:
-
-1. **Badges**: Update the badges (repo size, stars, forks) to reflect your repository details.
-2. **Demo Screenshots**: Replace `./readme-images/demo.png` with the actual path to your demo image.
-3. **Twitter Handle**: Update the Twitter badge and contact link with your actual Twitter handle.
-4. **Prerequisites**: List any specific technologies or tools required for your project.
-5. **Setup Instructions**: Add detailed instructions if your project has specific setup or configuration steps.
-
-Feel free to modify any sections to better fit your project’s needs!
