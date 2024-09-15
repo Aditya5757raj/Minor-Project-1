@@ -20,7 +20,8 @@
 
 ### Demo Screenshots
 
-![Classroom Management Demo](./readme-images/demo.png "Demo Screenshot")
+#### Classroom Management Demo
+![Classroom Management Demo](https://indiaeducationdiary.in/wp-content/uploads/2022/01/UPES-LOGO-01.jpg "Classroom Management Demo")
 
 ### Prerequisites
 
@@ -29,7 +30,7 @@ Make sure you have the following installed:
 - [Git](https://git-scm.com/downloads) - Version control system
 - [Java](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - For backend development
 - [Node.js](https://nodejs.org/) - If using Node.js for backend
-- [MySQL](https://www.mysql.com/) - For database management
+- [MySQL](https://www.mysql.com/)  - For database management
 
 ### Running Locally
 
